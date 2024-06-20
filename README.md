@@ -1,6 +1,18 @@
 # nanohabits
 
-A new Flutter project.
+A minimalist habit tracking app for human beings who want to improve their life.
+
+Features ;
+  - add unlimited habits
+  - customize habit cards
+  - heatmaps for individual habit
+  - indepth habit analytics
+
+current UI : 
+
+![Screenshot 2024-06-20 at 9 42 54 PM](https://github.com/Brijeshgrg1999/habitApp/assets/118506279/57dcbf1f-6cb1-4e52-9411-d6f80bd78555)
+
+
 
 ## Getting Started
 
